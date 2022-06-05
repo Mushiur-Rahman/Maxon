@@ -1,0 +1,260 @@
+@media (max-width: 575.98px) {
+/*header start*/
+.menu a {
+    margin-right: 0 !important;
+    text-align: right;
+}
+/*header end*/
+/*banner start*/
+.banner {
+    padding: 220px 0 100px;
+}
+.content-box {
+    text-align: center;
+}
+.ban-img img {
+    margin-top: -214px !important;
+    width: 100%;
+}
+.b_h1 {
+    font-size: 45px;
+}
+.b_p {
+    margin-bottom: 30px;
+}
+/*banner end*/
+/*about start*/
+.about {
+    text-align: center;
+    margin: 150px 0 80px;
+}
+.about-img-1 {
+    margin: -130px 0px 80px;
+}
+.about-h3 {
+    font-size: 22px;
+}
+.content-box {
+    margin-top: 0; 
+}
+.about-text {
+    margin-top: 30px;
+    margin-left: 0px;
+}
+.about-h2 {
+    font-size: 40px;
+}
+
+/*about end*/
+/*service start*/
+.s_service {
+        margin: 0 0 90px;
+}
+.service-h1 {
+    margin: 20px 0 40px;
+}
+/*service end*/
+/*partners section start*/
+.sec_heading {
+    text-align: center;
+}
+.contact_info {
+    margin-left: 20px;
+}
+.futter_img{
+    padding: 80px 90px;
+}
+/*partners section end*/
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+.menu a {
+    margin-right: 0 !important;
+    text-align: right;
+}
+/*header end*/
+/*about start*/
+.about {
+    text-align: center;
+    margin: 150px 0 80px;
+}
+.about-img-1 {
+    margin: -130px 0px 80px;
+}
+.content-box {
+    margin-top: 0;
+}
+.about-text {
+    margin-top: 70px;
+    margin-left: 0px; 
+}
+.about-h3 {
+    margin-top: 20px;
+}
+/*about end*/
+/*service start*/
+.s_service {
+       margin: 0 0 90px;
+}
+.service-h1 {
+    margin: 20px 0 40px;
+}
+/*service end*/
+/*client start*/
+.c_text {
+    text-align: center;
+}
+.parson{
+    margin-top: 20px;
+    margin-bottom: -28px;
+    width: 150px;
+}
+/*client end*/
+/*partners section start*/
+.futter_img {
+    padding: 48px 139px;
+}
+/*partners section end*/
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.menu a {
+    margin-right: 0 !important;
+    text-align: right;
+}
+/*header end
+/*banner start*/
+
+.banner {
+    padding: 215px 0 150px;
+}
+.b_h1 {
+    font-size: 45px;
+}
+/*banner end*/
+/*about start*/
+.about {
+    margin: 150px 0 50px;
+}
+.about-text {
+    text-align: center;
+    padding: 50px 0;
+    margin-left: 0;
+}
+.about-h2 {
+    font-size: 48px;
+}
+.about-h3 {
+    font-size: 32px;
+}
+h5 {
+    line-height: 30px;
+    font-size: 28px;
+}
+/*about end*/
+/*service start*/
+.s_service {
+       margin: 0 0 90px;
+}
+.service-h1 {
+    margin: 20px 0 40px;
+}
+/*service end*/
+}
+/*work start*/
+.all_text {
+    /*text-align: center;*/
+    margin: 0 auto;
+}
+/*work end*/
+/*function start*/
+.single-function {
+    text-align: center;
+    margin-top: 40px;
+}
+/*function end*/
+/*client start*/
+.parson{
+    margin-top: 20px;
+    margin-bottom: -28px;
+    width: 150px;
+}
+/*client end*/
+/*partners section start*/
+.b_h1 {
+    font-size: 28px;
+}
+.form-control {
+    height: 60px;
+}
+.contact_info {
+    font-size: 11px;
+}
+.contact_view {
+    padding: 12px 30px;
+    font-size: 12px;
+}
+/*partners section end*/
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu a {
+    margin-right: 30px !important;
+}
+/*header end*/
+/*banner start*/
+
+.banner {
+    padding: 215px 0 180px;
+}
+/*banner end*/
+/*about start*/
+.about {
+    margin: 60px 0 65px;
+}
+.about-h3 {
+    margin-top: 35px;
+    font-size: 21px;
+}
+.about-text {
+    margin-left: 25px;
+    margin-top: 120px;
+}
+.about-h2 {
+    padding-top: 15px;
+    font-size: 25px;
+}
+h5 {
+    margin: 18px 0;
+    line-height: none !important;
+    font-size: 17px;
+}
+.about_p {
+    margin-bottom: 30px;
+}
+/*about end*/
+/*work start*/
+.work_h2 {
+    margin: 10px 0px 20px;
+    font-size: 20px;
+}
+/*work end*/
+}
+
+
+@media (min-width: 1200px) and (max-width: 1439.98px) { ... }
+
+
+@media (min-width: 1400px) { 
+/*banner start*/
+.banner {
+    padding: 215px 0 200px;
+}
+/*banner end*/
+
+}

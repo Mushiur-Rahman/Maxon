@@ -1,0 +1,11 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+
+color{
+	ash	-    	#888888
+	orange-  	#ff7214
+	dark-blue-  #112e3e
+	blue-		#323541
+	
+}
